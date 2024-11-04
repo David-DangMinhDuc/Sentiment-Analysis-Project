@@ -1,4 +1,4 @@
-# Sentiment Analyst from Twitter Financial News Dataset and web app demonstration
+# Sentiment Analysis from Twitter Financial News Dataset and web app demonstration
 This is a self-project, which is started from August 2024 to October 2024. In this project, I researched and trained RoBERTa model for analyzing sentiment from Twitter Financial News Dataset. Then, I built and demonstrated a web app for this task by using Streamlit. Besides, I utilized BERT model for doing the same task (sentiment analyst) and compared this model with RoBERTa.
 
 ## Dataset
@@ -15,7 +15,7 @@ Because I implemented all of files in Kaggle, I do steps bellow:
 	6. Trained, evaluated and predicted BERT model
 	7. Compared RoBERTa model with BERT model
 
-- Finally, I ran file app.py for demonstrating web app for tweets sentiment analyst.  
+- Finally, I ran file app.py for demonstrating web app for tweets sentiment analysis.  
 	With app.py, I ran in some steps:
 	- Step 1: Ensured that I finished implementing step 5 in file ipynb và installed `streamlit` library and `localtunnel` for running app.
 	- Step 2: Added cell and then If I was created a folder to locate file app.py in Kaggle (in particular went to Datasets to create), I would have gone to step 3, else types commands below:
