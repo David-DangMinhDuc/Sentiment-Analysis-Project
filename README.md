@@ -1,5 +1,5 @@
 # Sentiment Analysis from Twitter Financial News Dataset and web app demonstration
-This is a self-project, which is started from August 2024 to October 2024. In this project, I researched and trained RoBERTa model for analyzing sentiment from Twitter Financial News Dataset. Then, I built and demonstrated a web app for this task by using Streamlit. Besides, I utilized BERT model for doing the same task (sentiment analyst) and compared this model with RoBERTa.
+This is a self-project, which is started from August 2024 to October 2024. In this project, I researched and trained RoBERTa model for analyzing sentiment from Twitter Financial News Dataset. Then, I built and demonstrated a web app for this task by using Streamlit. On the other hand, I utilized BERT model for doing the same task (sentiment analyst) and compared this model with RoBERTa.
 
 ## Dataset
 [The Twitter Financial News Dataset](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment) is a collection of financial-related tweets that collected using the Twitter API and designed for multi-class classification tasks. It contains financial-related tweets labeled as either bearish, bullish and neutral.
