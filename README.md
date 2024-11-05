@@ -17,7 +17,7 @@ Because I implemented all of files in Kaggle, I do steps bellow:
 
 - Finally, I ran file app.py for demonstrating web app for tweets sentiment analysis.  
 	With app.py, I ran in some steps:
-	- Step 1: Ensured that I finished implementing step 5 in file ipynb và installed `streamlit` library and `localtunnel` for running app.
+	- Step 1: Ensured that I finished implementing step v in file ipynb và installed `streamlit` library and `localtunnel` for running app.
 	- Step 2: Added cell and then If I was created a folder to locate file app.py in Kaggle (in particular went to Datasets to create), I would have gone to step 3, else types commands below:
 		```
 		%%writefile app.py
